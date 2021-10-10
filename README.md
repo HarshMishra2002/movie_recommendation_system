@@ -11,6 +11,7 @@ There are three major types of Recommendation System :
 3. Hybrid approach
 
 
+
 1. Content based filtering- Here we see users history and figure out what type of content the user likes, then we try to recommend the similar type of content. 
                          So the recommendation depends on the users past data.
                          
