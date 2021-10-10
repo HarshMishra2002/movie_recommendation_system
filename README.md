@@ -4,11 +4,11 @@ personalized for better user experience.
 
 There are three major types of Recommendation System :
 
-Content based filtering
+1. Content based filtering
 
-Collaborative filtering
+2. Collaborative filtering
 
-Hybrid approach
+3. Hybrid approach
 
 
 Content based filtering- Here we see users history and figure out what type of content the user likes, then we try to recommend the similar type of content. 
